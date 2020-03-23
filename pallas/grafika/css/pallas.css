@@ -1,0 +1,63 @@
+﻿ html, body { 
+  background: url(../grafika/pallas.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.kont {
+	background-color: transparent;
+	opacity: 0.99;
+}
+
+.lewa {
+	
+	
+}
+
+.prawa {
+	
+
+}
+.col-sm {
+	border-left: solid 1px black;
+	border-bottom: solid 1px black;
+	color: black;
+}
+
+.nobl{
+	border-left: 0px;
+}
+
+.nobr{
+	border-right: 0px;
+}
+
+.tyt {
+	font-weight: bold;
+	font-size: 14pt;
+	text-align: center;
+}
+
+.fot {
+	width: 150px;
+	height: 150px;
+	margin-right: 10px;
+}
+
+.wpis{
+	margin-left: 5px;
+}
+.alert {
+	width: 100%;
+	display:inline-block;
+}
+
+.marg-top{
+	margin-top: 10px;
+}
+
+.card {
+	margin-top: 8px;
+}
