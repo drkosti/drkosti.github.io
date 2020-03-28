@@ -74,7 +74,7 @@
   <h5 class="card-header">Info</h5>
   <div class="card-body">
     
-Podziękowanie dla radia <a href="http://www.stacjamikrofonia.pl/" target="_blank">StacjaMikrofonia</a> za zgodę na wykorzystanie serwera jako przykładu (odsłuchu) w szablonie.<img class="ok" src="grafika/ok.jpg"/>    
+Podziękowanie dla radia <a href="http://www.stacjamikrofonia.pl/" target="_blank">StacjaMikrofonia</a> za zgodę na wykorzystanie serwera jako przykładu (odsłuchu) w szablonie.<img class="ok" src="grafika/ok.png"/>    
   </div>
 </div>	
 
