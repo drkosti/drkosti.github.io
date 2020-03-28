@@ -1,0 +1,90 @@
+﻿ .masthead {
+  height: 250px;
+  min-height: 250px;
+  background-image: url('../grafika/tlo1.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: #ebc634;
+}
+
+.duration {
+	display:none;
+}
+.slogan {
+	font-family: 'Dancing Script', cursive;
+	font-size: 20pt;
+}
+.radio1{
+		margin-top: 30px;
+}
+.btndd {
+	background-color: #d40622;
+	color: white;
+}
+
+.ram-poz {
+	padding-top:10px;
+}
+.nazwa {
+	font-family: 'Righteous', cursive;
+
+}
+
+.auducja {
+	margin-bottom: 20px;
+	color: white;
+}
+
+.prezenter {
+	color: white;
+}
+.pmarg {
+	margin-top: 5px;
+}
+
+.prwmt {
+	margin-top: 40px;
+}
+
+.navbar-default .navbar-nav > li.dropdown:hover > a, 
+.navbar-default .navbar-nav > li.dropdown:hover > a:hover,
+.navbar-default .navbar-nav > li.dropdown:hover > a:focus {
+    background-color: rgb(231, 231, 231);
+    color: rgb(85, 85, 85);
+}
+li.dropdown:hover > .dropdown-menu {
+    display: block;
+}
+.ponline {
+	display: inline;
+	width: 100%;
+}
+
+.av {
+	max-width: 100px;
+	max-height: 100px;
+	float: left;
+	display: block;
+	margin-right: 20px;
+}
+
+.wpis6{
+	margin-left: 0px;
+}
+.ok {
+	width: 300px;
+	height: 300px;
+}
+.stopka {
+	background-color: #d40622;
+	color: white;
+}
+
+.stopka a {
+	color: white;
+}
+.stopka2 {
+	background-color: #47000c;
+}
+
